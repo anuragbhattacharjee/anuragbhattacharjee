@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 👷 I'm a Full Stack Developer.
-- 🔭 I’m currently working on Multi-Label Text Classification. 
-- 🌱 I’m currently learning Big Data, Data Analysis and Mobile App Development.
+- 👷 Full Stack Developer.
+- 🔭 Currently working on Multi-Label Text Classification. 
+- 🌱 Learning Big Data, Data Analysis and Mobile App Development.
 - 👯 I’m looking to collaborate on open source projects and remote jobs.
 - 💬 Ask me about anything you wish. I also write lifestyle realted blogs on Medium. 
 - 📫 How to reach me: [@linkedin](https://www.linkedin.com/in/anuragbhattacharjee/)
